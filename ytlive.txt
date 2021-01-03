@@ -8,7 +8,7 @@ rtmp {
                 application live {
                         live on;
                         record off;
-						push rtmp://a.rtmp.youtube.com/live2<2ah6-e0d5-3f4g-wzc9-5460>;
+						push rtmp://a.rtmp.youtube.com/live2<STREAM KEY>;
                 }
         }
 }
