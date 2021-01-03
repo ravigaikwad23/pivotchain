@@ -1,0 +1,20 @@
+Docker installation
+
+apt  install docker
+docker run -itd --name ravi-ubuntu docker.io/ubuntu
+docker ps -a
+docker start ID
+docker attach ID
+
+NodeJS Install
+apt install nodejs
+
+Python3.6
+
+sudo apt install software-properties-common
+sudo add-apt-repository ppa:deadsnakes/ppa
+sudo apt install python3.6
+
+OpenCV
+
+sudo apt install libopencv-dev python3-opencv
